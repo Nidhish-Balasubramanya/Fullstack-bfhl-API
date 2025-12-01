@@ -1,4 +1,4 @@
-# Bajaj BFHL API (FastAPI + Streamlit)
+# BFHL API (FastAPI + Streamlit)
 
 This repository contains the implementation of the **Bajaj Full Stack Hiring Challenge (BFHL)** API using **FastAPI** for the backend and a small **Streamlit app** for testing the API.
 
